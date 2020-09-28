@@ -5,6 +5,7 @@ public class Main {
 		// TODO Auto-generated method stub
 		Fraction f1 = new Fraction(4,5);
 		Fraction f2 = new Fraction(3,2);
+		assert (f1.toString() != null);
 		System.out.println(f1);
 		
 		System.out.println(f2.toString());
